@@ -9,7 +9,8 @@ A complete event booking system built with **Laravel**, allowing admins to creat
 | [prathap.n@admin.com](mailto:prathap.n@admin.com) | 9148860245 |
 
 
-
+#sql
+ file events.sql in folders
 
 ## 🚀 Features
 
