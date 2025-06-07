@@ -1,0 +1,8 @@
+/* Import Bootstrap from node_modules */
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+/* Optional: Set your preferred font (works with Bootstrap) */
+body {
+    font-family: 'Instrument Sans', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
+        'Segoe UI Symbol', 'Noto Color Emoji';
+}
